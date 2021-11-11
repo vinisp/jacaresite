@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
 }
 
 body {
@@ -28,6 +29,7 @@ li {
 
 .menu-top {
   display: flex;
+  gap: 2rem;
 }
 
 .menu-top li {
