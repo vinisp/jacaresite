@@ -16,15 +16,15 @@
 
 <body>
     <header>
-        <nav>
-            <div>Vinicius Aragão - Front-end Developer</div>
-            <ul>
-                <ul>
-                    <li> Projetos </li>
-                    <li> Lab </li>
-                    <li> Sobre </li>
-                    <li> <button onclick="darkTheme()"> Tema Escuro </button> </li>
-                </ul>
+        <nav class="nav-home-page">
+            <div class="textLogo">Vinicius Aragão - Front-end Developer</div>
+
+            <ul class="menu-top">
+                <li> Projetos </li>
+                <li> Lab </li>
+                <li> Sobre </li>
+                <li> <button onclick="darkTheme()"> Tema Escuro </button> </li>
+            </ul>
         </nav>
         <header>
             <section>
