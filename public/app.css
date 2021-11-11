@@ -8,6 +8,12 @@ body {
   background: #f2f2f2f2;
 }
 
+li {
+  list-style: none;
+}
+
+/* Barra de navegação */
+
 .nav-home-page {
   position: fixed;
   background: lightgrey;
@@ -15,6 +21,16 @@ body {
   width: 100%;
   display: flex;
   justify-content: space-around;
+  align-items: center;
+}
+
+.menu-top {
+  display: flex;
+}
+
+.textLogo {
+  font-size: 2rem;
+  color: midnightblue;
 }
 
 /* Animações */
