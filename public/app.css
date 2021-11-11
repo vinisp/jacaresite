@@ -33,7 +33,8 @@ li {
 }
 
 .menu-top li {
-  color: #f2f2f2;
+  color: #ffffff;
+  font-weight: 300;
 }
 
 .menu-top li:hover {
