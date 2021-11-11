@@ -30,10 +30,23 @@ li {
   display: flex;
 }
 
+.menu-top li {
+  color: #f2f2f2;
+}
+
+.menu-top li:hover {
+  color: #ef2d56;
+}
+
 .textLogo {
   font-family: "Lobster", sans-serif;
   font-size: 2rem;
   color: #00a8e8;
+  transition: all 500ms ease-in-out;
+}
+
+.textLogo:hover {
+  color: #ef2d56;
 }
 
 /* Animações */
