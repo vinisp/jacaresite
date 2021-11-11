@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Vinicius Aragão - Front-end - Developer</title>
-    <link rel="stylesheet" href="/app.scss">
+    <link rel="stylesheet" href="/app.css">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -45,6 +45,8 @@
             <footer>
                 <div> Rodapé </div>
             </footer>
+
+            <script src="/app.js"></script>
 </body>
 
 </html>
