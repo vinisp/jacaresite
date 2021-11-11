@@ -17,7 +17,7 @@
 <body>
     <header>
         <nav class="nav-home-page">
-            <div class="textLogo">Vinicius Aragão - Front-end Developer</div>
+            <div class="textLogo">ViniciusAragão - Front-End Developer</div>
 
             <ul class="menu-top">
                 <li> Projetos </li>
