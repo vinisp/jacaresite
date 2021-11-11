@@ -23,6 +23,7 @@
                     <li> Projetos </li>
                     <li> Lab </li>
                     <li> Sobre </li>
+                    <li> <button onclick="darkTheme()"> Tema Escuro </button> </li>
                 </ul>
         </nav>
         <header>

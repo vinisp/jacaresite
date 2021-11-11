@@ -1,1 +1,3 @@
-console.log("hellow Js World");
+const darkTheme = () => {
+  console.log("hellow Js World");
+};
