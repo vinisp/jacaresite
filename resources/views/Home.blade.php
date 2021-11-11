@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="/app.css">
 
     <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Raleway:wght@100;600&display=swap"
+        rel="stylesheet"> type="text/css">
 
 </head>
 
