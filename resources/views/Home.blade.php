@@ -11,14 +11,14 @@
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Raleway:wght@100;600&display=swap"
-        rel="stylesheet"> type="text/css">
+        rel="stylesheet" type="text/css">
 
 </head>
 
 <body>
     <header>
         <nav class="nav-home-page">
-            <div class="textLogo">ViniciusAragão - Front-End Developer</div>
+            <div class="textLogo">viniciusAragão - Front-End Developer</div>
 
             <ul class="menu-top">
                 <li> Projetos </li>
