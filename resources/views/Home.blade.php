@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Vinicius Aragão - Front-end - Developer</title>
+
     <link rel="stylesheet" href="/app.css">
 
 
@@ -26,6 +26,7 @@
         gtag('config', 'G-EQFHW7T756');
     </script>
     <script src="/app.js"></script>
+    <title>Vinicius Aragão - Front-end - Developer</title>
 
 </head>
 
