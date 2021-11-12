@@ -43,16 +43,17 @@ li {
 
 .brand-wrapper {
   display: flex;
+  border: solid 2px white;
 }
 
 .textLogo {
   display: flex;
   font-family: "Lobster", sans-serif;
+  color: white;
 }
 
 .slogan {
-  font-family: "Lobster", sans-serif;
-  color: #ef2d56;
+  color: white;
 }
 
 /* Animações */
