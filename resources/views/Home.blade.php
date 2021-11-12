@@ -12,6 +12,18 @@
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Raleway:wght@100;300;600&display=swap"
         rel="stylesheet" type="text/css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EQFHW7T756"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-EQFHW7T756');
+    </script>
 
 </head>
 
@@ -28,7 +40,7 @@
             </ul>
         </nav>
         <header>
-            <section>
+            <section class="welcome-space">
                 <h1> Apresentação </h1>
                 <span> Contratar </span>
                 <span> Marcar uma reunião </span>
