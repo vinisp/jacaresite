@@ -17,7 +17,14 @@ Route::get('/', function () {
 
 Route::get('/post/{post}', function ($slug) {
     $post = file_get_contents(__DIR__ . "/../resources/posts/{$slug}.blade.php");
-    return view('post', [
-        'post' => $post
-    ]);
+    return view(
+        'post',
+        [
+            'post' => $post
+        ],
+        'slug',
+        [
+            'slug' => $slug
+        ]
+    );
 });
