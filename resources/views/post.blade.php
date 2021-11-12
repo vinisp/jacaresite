@@ -25,7 +25,7 @@
         gtag('config', 'G-EQFHW7T756');
     </script>
     <script src="/app.js"></script>
-    <title>Vinicius Aragão - Front-end - Developer</title>
+    <title>Vinicius Aragão - Post</title>
 
 </head>
 
