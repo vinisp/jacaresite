@@ -25,12 +25,13 @@
         gtag('config', 'G-EQFHW7T756');
     </script>
     <script src="/app.js"></script>
-    <title>Vinicius Aragão - <?= $name ?> </title>
+    <title>Vinicius Aragão - </title>
 
 </head>
 
 <body>
     <article>
         <?= $post ?>
+        <?= $name ?>
     </article>
 </body>
