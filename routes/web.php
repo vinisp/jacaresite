@@ -22,9 +22,9 @@ Route::get('/post/{post}', function ($slug) {
         [
             'post' => $post
         ],
-        'slug',
+        'name',
         [
-            'slug' => $slug
+            'name' => 'area 21'
         ]
     );
 });

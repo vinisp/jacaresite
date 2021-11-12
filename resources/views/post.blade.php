@@ -25,7 +25,7 @@
         gtag('config', 'G-EQFHW7T756');
     </script>
     <script src="/app.js"></script>
-    <title>Vinicius Aragão - <?= $slug ?> </title>
+    <title>Vinicius Aragão - <?= $name ?> </title>
 
 </head>
 
