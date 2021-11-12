@@ -17,6 +17,6 @@ Route::get('/', function () {
 
 Route::get('/post', function () {
     return view('post', [
-        'post' => file_get_contents(__DIR__ . '../resources/views/componets/nav.blade.php')
+        'post' => file_get_contents(__DIR__ . '../resources/views/componets/nav.html')
     ]);
 });
