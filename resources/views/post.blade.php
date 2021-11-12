@@ -11,5 +11,6 @@
 <body>
     <article>
         <h1>Texto teste</h1>
+        <?= $post ?>
     </article>
 </body>
