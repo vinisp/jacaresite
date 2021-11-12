@@ -8,7 +8,7 @@
 
     <title>Vinicius Aragão - Front-end - Developer</title>
     <link rel="stylesheet" href="/app.css">
-    <script src="/app.js"></script>
+
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Raleway:wght@100;300;600&display=swap"
@@ -25,6 +25,7 @@
 
         gtag('config', 'G-EQFHW7T756');
     </script>
+    <script src="/app.js"></script>
 
 </head>
 
