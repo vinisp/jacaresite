@@ -39,22 +39,6 @@ li {
   color: #ef2d56;
 }
 
-.brandWrapper {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  border: solid 2px white;
-  background: coral;
-}
-
-.textLogo {
-  color: white;
-}
-
-.slogan {
-  color: yellow;
-}
-
 /* Animações */
 
 /* Responsividade */
