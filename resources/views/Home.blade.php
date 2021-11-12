@@ -32,9 +32,9 @@
     <header>
         <nav class="nav-home-page">
             <div class="textLogo">
-                <span class="logoNome">viniciusAragão - </span>
-                <span class="slogan">Front-End Developer
-                </span>
+                <div class="logoNome">viniciusAragão - </div>
+                <div class="slogan">Front-End Developer
+                </div>
             </div>
 
             <ul class="menu-top">
