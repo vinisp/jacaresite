@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('Home');
 });
+
+Route::get('/post', function () {
+    return view('post');
+});
