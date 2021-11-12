@@ -31,10 +31,11 @@
 <body>
     <header>
         <nav class="nav-home-page">
-            <div class="brand-wrapper">
+            <div class="brandWrapper">
                 <div class="textLogo">viniciusAragão</div>
                 <div class="slogan"> Front-End Developer </div>
             </div>
+            <div class="brandWrapper"> Testando </div>
 
             <ul class="menu-top">
                 <li> Projetos </li>
