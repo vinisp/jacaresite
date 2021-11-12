@@ -21,10 +21,5 @@ Route::get('/post/{post}', function ($slug) {
         'post',
         [
             'post' => $post
-        ],
-        'name',
-        [
-            'name' => 'area 21'
         ]
-    );
 });
