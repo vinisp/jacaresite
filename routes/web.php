@@ -24,7 +24,5 @@ Route::get('/post/{post}', function ($slug) {
         [
             'post' => $post
         ],
-        'name',
-        ['name' => 'josé']
     );
 });
