@@ -17,7 +17,7 @@ li {
 
 .nav-home-page {
   position: fixed;
-  background: #2f2f2f;
+  background: red;
   height: 60px;
   width: 100%;
   display: flex;
