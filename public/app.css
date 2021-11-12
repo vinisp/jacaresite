@@ -17,7 +17,7 @@ li {
 
 .nav-home-page {
   position: fixed;
-  background: red;
+  background: #2f2f2f;
   height: 60px;
   width: 100%;
   display: flex;
@@ -37,6 +37,23 @@ li {
 
 .menu-top li:hover {
   color: #ef2d56;
+}
+
+.brandWrapper {
+  display: flex;
+  border: solid 2px white;
+  background: coral;
+}
+
+.textLogo {
+  display: flex;
+  font-family: "Lobster", sans-serif;
+  color: white;
+}
+
+.slogan {
+  color: white;
+  border: solid 2px coral;
 }
 
 /* Animações */
