@@ -41,19 +41,18 @@ li {
   color: #ef2d56;
 }
 
+.brand-wrapper {
+  display: flex;
+}
+
 .textLogo {
   display: flex;
   font-family: "Lobster", sans-serif;
 }
 
-.logoNome,
 .slogan {
-  color: #00a8e8;
-  transition: all 500ms ease-in-out;
-}
-
-.slogan {
-  font-size: 1rem;
+  font-family: "Lobster", sans-serif;
+  color: #ef2d56;
 }
 
 .textLogo:hover {
