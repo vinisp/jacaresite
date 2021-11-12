@@ -31,7 +31,11 @@
 <body>
     <header>
         <nav class="nav-home-page">
-            <div class="textLogo">viniciusAragão - Front-End Developer</div>
+            <div class="textLogo">
+                <span class="logoNome">viniciusAragão - </span>
+                <span class="slogan">Front-End Developer
+                </span>
+            </div>
 
             <ul class="menu-top">
                 <li> Projetos </li>
