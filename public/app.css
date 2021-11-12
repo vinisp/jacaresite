@@ -39,7 +39,7 @@ li {
   color: #ef2d56;
 }
 
-.nav-home-page .brandWrapper {
+.nav-home-page.brandWrapper {
   width: 100%;
   height: 100%;
   display: flex;
