@@ -17,6 +17,6 @@ Route::get('/', function () {
 
 Route::get('/post', function () {
     return view('post', [
-        'post' => '<h1> Hello dog </h1>'
+        'post' => file_get_contents(__DIR__ . '../resources/views/componets/nav.blade.php')
     ]);
 });
