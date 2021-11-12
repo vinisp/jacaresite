@@ -35,7 +35,7 @@
                 <div class="textLogo">viniciusAragão</div>
                 <div class="slogan"> Front-End Developer </div>
             </div>
-            <div class="brandWrapper"> Testando </div>
+            <div class="slogan"> Testando </div>
 
             <ul class="menu-top">
                 <li> Projetos </li>
