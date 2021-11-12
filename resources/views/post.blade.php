@@ -32,6 +32,6 @@
 <body>
     <article>
         <?= $post ?>
-        <?= $name ?>
+
     </article>
 </body>
