@@ -31,9 +31,9 @@
 <body>
     <header>
         <nav class="nav-home-page">
-            <div class="textLogo">
-                viniciusAragão - Front-End Developer
-
+            <div>
+                <div class="textLogo">viniciusAragão</div>
+                <div class="slogan"> Front-End Developer </div>
             </div>
 
             <ul class="menu-top">
