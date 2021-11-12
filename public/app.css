@@ -42,18 +42,19 @@ li {
 .brandWrapper {
   display: flex;
   border: solid 2px white;
-  background: coral;
+  font-family: "Lobster", sans-serif;
 }
 
 .textLogo {
   display: flex;
-  font-family: "Lobster", sans-serif;
-  color: white;
+
+  color: #00a8e8;
+  font-size: 2rem;
 }
 
 .slogan {
   color: white;
-  border: solid 2px coral;
+  font-size: 1rem;
 }
 
 /* Animações */
