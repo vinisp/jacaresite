@@ -26,3 +26,7 @@ Route::get('/post/{post}', function ($slug) {
         ],
     );
 });
+
+Route::get('/calc', function () {
+    return view('Calc');
+});
