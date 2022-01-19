@@ -59,6 +59,10 @@ li {
   align-self: flex-end;
 }
 
+.welcome-space {
+  margin-top: 60px;
+}
+
 /* Animações */
 
 /* Responsividade */
