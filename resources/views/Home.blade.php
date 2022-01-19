@@ -67,7 +67,7 @@
             </div>
         </div>
     </section>
-    <section>
+    <section class="myValues-space">
         <h2> Proposta de valor </h2>
         <div class="card-wrapper">
             <div class="card"> Card 1</div>

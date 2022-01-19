@@ -60,6 +60,8 @@ li {
   align-self: flex-end;
 }
 
+/*Hero*/
+
 .welcome-space {
   padding-top: 60px;
 }
@@ -113,6 +115,13 @@ li {
   margin-top: 60px;
   height: 500px;
   width: 500px;
+}
+
+/*Apresentação da proposta de valor*/
+
+.myValues-space {
+  display: flex;
+  justify-content: center;
 }
 
 /* Animações */
