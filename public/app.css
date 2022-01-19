@@ -72,7 +72,8 @@ li {
 .hero-txt {
   flex: 0 0 50%;
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  justify-content: center;
 
   padding-left: 19em;
 }
