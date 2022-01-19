@@ -129,14 +129,15 @@ li {
 
 .card-wrapper {
   display: flex;
-  gap: 1em;
+  gap: 4em;
+  margin: 3em 0;
 }
 
 .card {
   background: white;
   color: black;
-  width: 250px;
-  height: 400px;
+  width: 300px;
+  height: 420px;
 }
 
 /* Animações */
