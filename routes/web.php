@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('Home');
 });
 
-Route::get('/post/{post}', function ($slug) {
+Route::get('/{post}', function ($slug) {
     /* return $slug; */
     $post = file_get_contents(__DIR__ . "/../resources/posts/{$slug}.blade.php");
 
