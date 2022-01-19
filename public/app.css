@@ -80,7 +80,11 @@ li {
 
 .hero-txt h1,
 .hero-txt p {
-  margin-bottom: 2em;
+  margin-bottom: 0.6em;
+}
+
+.hero-txt p {
+  line-height: 1.4;
 }
 
 .hero-img {
