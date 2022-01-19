@@ -48,12 +48,12 @@
     </header>
     <section class="welcome-space">
         <div class="hero">
-            <div>
+            <div class="hero-txt">
                 <h1> Apresentação </h1>
                 <span> Contratar </span>
                 <span> Marcar uma reunião </span>
             </div>
-            <div>
+            <div class="hero-img">
                 <img src="/assets/flatHero.jpg" alt="imagem da hero" loading="lazy">
             </div>
         </div>
