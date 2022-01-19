@@ -78,6 +78,11 @@ li {
   padding-left: 19em;
 }
 
+.hero-txt h1,
+.hero-txt p {
+  margin-bottom: 2em;
+}
+
 .hero-img {
   flex: 0 0 35%;
 }
