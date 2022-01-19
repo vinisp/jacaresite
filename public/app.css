@@ -70,7 +70,11 @@ li {
 }
 
 .hero-txt {
-  flex: 0 0 65%;
+  flex: 0 0 50%;
+  display: flex;
+  align-items: center;
+
+  padding-left: 14.6em;
 }
 
 .hero-img {
