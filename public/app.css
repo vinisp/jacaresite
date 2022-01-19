@@ -127,6 +127,11 @@ li {
   color: #fff;
 }
 
+.card-wrapper {
+  display: flex;
+  gap: 1em;
+}
+
 /* Animações */
 
 /* Responsividade */
