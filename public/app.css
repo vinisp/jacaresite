@@ -99,6 +99,10 @@ li {
   width: 50%;
 }
 
+.contact-btn {
+  margin-bottom: 0.8em;
+}
+
 .hero-img {
   flex: 0 0 35%;
 }
