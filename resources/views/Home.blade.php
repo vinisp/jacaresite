@@ -50,8 +50,17 @@
         <div class="hero">
             <div class="hero-txt">
                 <h1> Apresentação </h1>
-                <span> Contratar </span>
-                <span> Marcar uma reunião </span>
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis temporibus ipsum amet quo, dignissimos
+                    dolore repellat eaque? Sint ut natus possimus saepe eius, voluptatibus animi molestias iste
+                    dignissimos sed consectetur? Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
+                    minima ipsum, exercitationem recusandae inventore cum accusantium et magnam ex facilis sapiente
+                    corrupti vel perferendis unde iusto labore voluptates aliquam maxime! </p>
+                <button>
+                    <div> Contratar </div>
+                </button>
+                <button>
+                    <div> Marcar uma reunião </div>
+                </button>
             </div>
             <div class="hero-img">
                 <img src="/assets/flatHero.jpg" alt="imagem da hero" loading="lazy">
