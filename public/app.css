@@ -89,9 +89,14 @@ li {
 
 .contact-btn,
 .meeting-btn {
+  align-self: center;
+
   background: transparent;
   border: solid 1px black;
-  padding: 15px;
+  border-radius: 6px;
+
+  padding: 5px;
+  width: 50%;
 }
 
 .hero-img {
