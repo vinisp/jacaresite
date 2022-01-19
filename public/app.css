@@ -104,7 +104,9 @@ li {
 }
 
 .hero-img {
-  flex: 0 0 35%;
+  flex: 0 0 50%;
+  display: flex;
+  justify-content: center;
 }
 
 .hero-img img {
