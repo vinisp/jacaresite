@@ -47,9 +47,11 @@
         </nav>
     </header>
     <section class="welcome-space">
-        <h1> Apresentação </h1>
-        <span> Contratar </span>
-        <span> Marcar uma reunião </span>
+        <div class="hero">
+            <h1> Apresentação </h1>
+            <span> Contratar </span>
+            <span> Marcar uma reunião </span>
+        </div>
     </section>
     <section>
         <div> Card 1 </div>
