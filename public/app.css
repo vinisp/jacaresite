@@ -121,7 +121,10 @@ li {
 
 .myValues-space {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background: black;
+  color: #fff;
 }
 
 /* Animações */
