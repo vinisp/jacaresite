@@ -55,10 +55,10 @@
                     dignissimos sed consectetur? Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
                     minima ipsum, exercitationem recusandae inventore cum accusantium et magnam ex facilis sapiente
                     corrupti vel perferendis unde iusto labore voluptates aliquam maxime! </p>
-                <button>
+                <button class="contact-btn">
                     <div> Contratar </div>
                 </button>
-                <button>
+                <button class="meeting-btn">
                     <div> Marcar uma reunião </div>
                 </button>
             </div>

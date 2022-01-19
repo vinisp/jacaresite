@@ -87,6 +87,13 @@ li {
   line-height: 1.4;
 }
 
+.contact-btn,
+.meeting-btn {
+  background: transparent;
+  border: solid 1px black;
+  padding: 15px;
+}
+
 .hero-img {
   flex: 0 0 35%;
 }
