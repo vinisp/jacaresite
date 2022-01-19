@@ -76,6 +76,11 @@ li {
   flex: 0 0 35%;
 }
 
+.hero-img img {
+  height: 450px;
+  width: 450px;
+}
+
 /* Animações */
 
 /* Responsividade */
