@@ -68,10 +68,15 @@
         </div>
     </section>
     <section>
-        <div> Card 1 </div>
-        <div> Card 2 </div>
-        <div> Card 3 </div>
-        <div> Todos Projetos </div>
+        <h2> Proposta de valor </h2>
+        <div class="card-wrapper">
+            <div class="card"> Card 1</div>
+            <div class="card"> Card 2</div>
+            <div class="card"> Card 3</div>
+        </div>
+
+        <div> <span> Resumo da minha história como freelancer... Pode ser no formato de linha do tempo, já aproveito e
+                faço um teste com aquela ideia de grids, e também posso testar uns elementos 3d </span> </div>
     </section>
     <section>
         <div> Prova social </div>
@@ -81,8 +86,6 @@
     <footer>
         <div> Rodapé </div>
     </footer>
-
-
 </body>
 
 </html>
