@@ -132,6 +132,13 @@ li {
   gap: 1em;
 }
 
+.card {
+  background: white;
+  color: black;
+  width: 250px;
+  height: 400px;
+}
+
 /* Animações */
 
 /* Responsividade */
