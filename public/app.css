@@ -66,6 +66,7 @@ li {
 
 .hero {
   display: flex;
+  background: #fff;
 }
 
 .hero-txt {
@@ -77,8 +78,9 @@ li {
 }
 
 .hero-img img {
-  height: 450px;
-  width: 450px;
+  margin-top: 60px;
+  height: 500px;
+  width: 500px;
 }
 
 /* Animações */
